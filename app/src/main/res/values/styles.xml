@@ -1,0 +1,61 @@
+<resources>
+
+    <!-- I create a theme for each activity -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryDark">@color/primary_dark_color</item>
+
+    </style>
+
+    <style name="AppTheme1" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/rock</item>
+        <item name="colorPrimaryDark">@color/primary_dark_color</item>
+
+    </style>
+
+    <style name="AppTheme2" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/classical</item>
+        <item name="colorPrimaryDark">@color/primary_dark_color</item>
+
+    </style>
+
+    <style name="AppTheme3" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/year80</item>
+        <item name="colorPrimaryDark">@color/primary_dark_color</item>
+
+    </style>
+
+    <style name="AppTheme4" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/latin</item>
+        <item name="colorPrimaryDark">@color/primary_dark_color</item>
+
+    </style>
+
+
+    <style name="AppTheme5" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/electronic</item>
+        <item name="colorPrimaryDark">@color/primary_dark_color</item>
+
+    </style>
+
+    <style name="AppTheme6" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/zoo</item>
+        <item name="colorPrimaryDark">@color/primary_dark_color</item>
+
+    </style>
+
+    <!--I use this style for when I need to display a default text.
+I copied it from somewhere, while testing, but I was in too many places to rename them all .. -->
+
+    <style name="CategoryStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:padding">@dimen/medium</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">@dimen/text</item>
+        <item name="android:textStyle">bold</item>
+
+
+    </style>
+</resources>

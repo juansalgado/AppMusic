@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?><!--I did the LARGE to solve a problem,
+    because in the Nexus 5 it looks very good,
+    but in the Nexus 5x not.--><!--It seems that the LARGE only serves for tablets,
+    I do not comment the LARGE because they are like the original activity,,
+    except to put things back in the graphic designer.-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/CategoryStyle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/menu0"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="350dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:background="@drawable/photo1" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="256dp"
+            android:layout_height="@dimen/special"
+            android:background="@drawable/logo1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:background="@drawable/photo2" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="256dp"
+            android:layout_height="@dimen/special"
+            android:background="@drawable/logo2" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:background="@drawable/photo3" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="256dp"
+            android:layout_height="@dimen/special"
+            android:background="@drawable/logo3" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:background="@drawable/photo4" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="256dp"
+            android:layout_height="@dimen/special"
+            android:background="@drawable/logo4" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:background="@drawable/photo5" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="256dp"
+            android:layout_height="@dimen/special"
+            android:background="@drawable/logo5" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:background="@drawable/photo6" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="256dp"
+            android:layout_height="@dimen/special"
+            android:background="@drawable/logo6" />
+
+    </LinearLayout>
+</LinearLayout>

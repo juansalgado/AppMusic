@@ -1,0 +1,18 @@
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#4aced0</color>
+
+    <!-- Primary dark color of the app -->
+    <color name="primary_dark_color">#000000</color>
+
+    <!-- Background color for app -->
+    <color name="color_background">#201c1c</color>
+
+    <!-- Background color for each App bar of Activity and its relative colors Buttons -->
+    <color name="rock">#aa0d1d</color>
+    <color name="classical">#FD8E09</color>
+    <color name="year80">#b409fd</color>
+    <color name="latin">#c1ca16</color>
+    <color name="electronic">#374092</color>
+    <color name="zoo">#13a000</color>#13a000
+</resources>

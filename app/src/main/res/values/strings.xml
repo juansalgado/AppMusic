@@ -1,0 +1,35 @@
+﻿<resources>
+    <string name="app_name">NotiPhone</string>
+    <string name="finalCredits">By Juan Salgado                                        Special thanks for Ágil &amp; Studenko</string>
+    <string name="zz_top">ZZ-Top</string>
+    <string name="ac_dc">AC/DC</string>
+    <string name="elvis_presley">Elvis Presley</string>
+    <string name="little_richard">Little Richard</string>
+    <string name="bill_haley">Bill Haley</string>
+    <string name="wolf">Wolf</string>
+    <string name="rooster">Rooster</string>
+    <string name="elephant">Elephant</string>
+    <string name="bird">Bird</string>
+    <string name="cricket">Cricket</string>
+    <string name="mozart">Mozart</string>
+    <string name="beethoven">Beethoven</string>
+    <string name="bach">Bach</string>
+    <string name="pachelbel">Pachelbel</string>
+    <string name="wagner">Wagner</string>
+    <string name="beegees">BeeGees</string>
+    <string name="michael_jackson">Michael Jackson</string>
+    <string name="a_ha">a-ha</string>
+    <string name="survivor">Survivor</string>
+    <string name="madonna">Madonna</string>
+    <string name="rick_astley">Rick Astley</string>
+    <string name="luis_fonsi">Luis Fonsi</string>
+    <string name="shakira">Shakira</string>
+    <string name="pitbull">Pitbull</string>
+    <string name="ricky_martin">Ricky Martin</string>
+    <string name="david_bisbal">David Bisbal</string>
+    <string name="alan_walker">Alan Walker</string>
+    <string name="salt_n_pepa">Salt-N-Pepa</string>
+    <string name="ed_sheeran">Ed Sheeran</string>
+    <string name="grace_feat_g_eazy">Grace Feat. G-Eazy</string>
+    <string name="martin_garrix">Martin Garrix</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define standard dimensions  -->
+    <dimen name="nothing">0dp</dimen>
+    <dimen name="small">8dp</dimen>
+    <dimen name="medium">16dp</dimen>
+    <dimen name="large">120dp</dimen>
+    <dimen name="logo">180dp</dimen>
+    <dimen name="extraLarge">200dp</dimen>
+    <dimen name="disc">40dp</dimen>
+    <dimen name="icon">48dp</dimen>
+    <dimen name="special">64dp</dimen>
+    <dimen name="text">16sp</dimen>
+</resources>
